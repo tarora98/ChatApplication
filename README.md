@@ -1,2 +1,2 @@
 # ChatApplication
-Get to know the basics understanding of Node.js and React.js
+Basic Understanding of React.js and Node.js
